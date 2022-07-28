@@ -14,7 +14,7 @@ class WriteToFile {
 	     
 	     fwrite.write("Given content is addedd to the file and read");   
 	 
-	     fwrite.close();   
+	     fwrite.close();
 	     System.out.println("Content addedd to the file.");  
 	 } catch (IOException e) {  
 	     System.out.println("Unexpected error ");  
