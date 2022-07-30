@@ -5,7 +5,7 @@ public class arrayRotation_eg {
 	 int [] arr = new int [] {11,4,6,2,8,7};            
 	 int n = 4;    
 	 
-	 System.out.println("Given Array: ");    
+	 System.out.println("Given Array: "); 
      for (int i = 0; i < arr.length; i++) {     
      System.out.print(arr[i] + " ");     
      }     

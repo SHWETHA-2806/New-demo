@@ -22,7 +22,7 @@ package LoSuSeq_Eg;
 		
 		public static void main(String args[]) {
 			System.out.println("Finding longest increasing subsequence.");
-			int arr[] = {10,9,2,5,3,7,101,18};
+			int arr[] = {5,8,7,9};
 			System.out.println("Answer :"+(lis(arr)));
 		}
 	}
